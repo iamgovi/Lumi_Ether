@@ -40,13 +40,13 @@
             <artifactId>quarkus-resteasy-reactive-jackson</artifactId>
         </dependency>
         <dependency>
-    <groupId>io.quarkus</groupId>
-    <artifactId>quarkus-reactive-pg-client</artifactId>
-</dependency>
-<dependency>
-    <groupId>io.smallrye.reactive</groupId>
-    <artifactId>mutiny</artifactId>
-</dependency>
+    		<groupId>io.quarkus</groupId>
+    		<artifactId>quarkus-reactive-pg-client</artifactId>
+		</dependency>
+		<dependency>
+    		<groupId>io.smallrye.reactive</groupId>
+    		<artifactId>mutiny</artifactId>
+		</dependency>
     </dependencies>
 
     <build>
